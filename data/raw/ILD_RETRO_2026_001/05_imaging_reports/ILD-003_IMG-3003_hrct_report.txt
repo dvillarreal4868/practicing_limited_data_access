@@ -1,0 +1,8 @@
+RADIOLOGY REPORT
+Accession: IMG-3003 | Date: 09/15/2025 | Radiologist: Dr. A. Mehta
+Exam: CT CHEST WITHOUT CONTRAST, HIGH-RESOLUTION PROTOCOL
+Patient: [REDACTED] (ILD-003)
+
+IMPRESSION: Diffuse GGO, DIP favored in active smoker. [Initial ED read by K. Santos: PNA - overridden]. Extent ~30%.
+
+[Full structured report available in PACS]

@@ -1,0 +1,38 @@
+EMERGENCY DEPARTMENT PROVIDER NOTE
+Date: 09/03/2025 02:14 | Author: Kevin Santos, MD | Encounter: ENC-550344
+
+CC: Shortness of breath
+
+HPI: 55 yo F presents w/ acutely worsening SOB x 3 days. Productive cough, greenish sputum, subjective fevers. Has had chronic cough 'a few months' - never evaluated. No prior lung dz hx.
+
+PMH: Obesity, Depression  |  Meds: Sertraline 100mg, ibuprofen prn  |  Allergies: NKDA
+
+Social: Active smoker ~1 ppd x 30 yrs. Never tried to quit. Social EtOH. Home health aide.
+
+ROS: [EPIC AUTO-POPULATED TEMPLATE]
+[X] Fever [X] Fatigue [X] SOB [X] Cough [X] Sputum
+[ ] Chest pain [ ] Edema [ ] Hemoptysis [ ] Wheezing
+[ ] Nausea [ ] Vomiting [ ] Diarrhea [ ] Abd pain
+[ ] Dysuria [ ] Joint pain [ ] Rash [ ] Headache [ ] Weakness
+All others negative.
+
+EXAM:
+VS (02:05): T 100.8 HR 102 BP 142/88 RR 24 SpO2 89% RA -> 94% 3L NC
+VS (04:30): T 99.9 HR 94 BP 130/82 RR 20 SpO2 93% 2L NC
+Gen: Mild resp distress, short sentences
+Lungs: Diffuse bilateral crackles L>R. Decreased BS at bases. No wheezes.
+CV: Tachy, regular. Ext: No edema.
+
+RESULTS: WBC 11.2 (H), Hgb 12.8, Procal 0.18, COVID neg, RVP neg, BCx pending
+CT Chest (prelim - K. Santos): Bilateral diffuse GGO, lower lobes. Patchy consolidation LLL. DDx multifocal PNA vs atypical infection vs underlying ILD w/ superimposed process.
+
+ED COURSE: 3L NC -> SpO2 94%. Ceftriaxone 1g IV + azithro 500mg IV. NS 1L bolus.
+
+DISPOSITION: Admit to Gen Med. Pulm consult recommended.
+
+Dx: 1. Acute hypoxemic resp failure (J96.01) 2. CAP (J18.9) 3. ?ILD (J84.9)
+
+ADDENDUM 09/03/2025 08:45:
+Radiology final by Dr. Mehta: 'Diffuse GGO pattern more suggestive of DIP than multifocal PNA in active smoker.' I have discussed with admitting team.
+
+E-signed: K. Santos, MD  09/03/2025 03:02 | Addendum: 08:47

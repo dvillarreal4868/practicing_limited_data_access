@@ -1,0 +1,9 @@
+PULMONARY MEDICINE NOTE
+Date: 2025-10-10 | Author: R. Krishnamurthy, MD
+
+Brief: 48M, current smoker + vaper, dry cough, mild DOE. Early workup.
+[Full note content would be here - abbreviated for this synthetic dataset]
+
+See structured data exports for complete clinical details.
+
+E-signed: R. Krishnamurthy, MD

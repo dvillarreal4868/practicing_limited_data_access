@@ -1,0 +1,29 @@
+variable_name,label,type,values_or_range,source_table,required,notes
+patient_id,Study Patient ID,string,ILD-001 to ILD-010,demographics,Y,De-identified study ID
+age,Age at enrollment,integer,18-100,demographics,Y,Calculated from DOB and enrollment date
+sex,Biological sex,categorical,"M, F",demographics,Y,As documented in EHR
+race_ethnicity,Race/Ethnicity,string,Free text - see quality notes,demographics,Y,Not standardized in source; see DQ-017
+bmi,Body Mass Index,float,15.0-60.0,vitals,Y,From most recent encounter within 6mo
+smoking_status,Current smoking status,categorical,"Current, Former",smoking_history,Y,At time of enrollment
+cigarettes_per_day,Cigarettes per day,string,Free text - may be numeric or descriptive,smoking_history,Y,Inconsistent formatting; see DQ notes
+years_smoked,Duration of smoking,string,Free text - may be approximate,smoking_history,Y,"Self-reported, often approximate"
+pack_years,Calculated pack-years,float,0-150,smoking_history,Y,May be approximate if inputs are vague
+quit_date,Date of smoking cessation,string,Various formats or N/A,smoking_history,Conditional,Only for former smokers; precision varies
+icd10_primary,Primary ICD-10 code,string,J84.xxx,encounters,Y,As assigned by treating provider
+ild_subtype,Working ILD subtype,string,"UIP/IPF, NSIP, DIP, RB-ILD",clinical_dx,Y,Per MDD or best clinical judgment
+diagnostic_confidence,Confidence level,categorical,"Definite, Probable, Suspected",clinical_dx,Y,Per Fleischner/ATS criteria alignment
+fvc_pct_predicted,FVC % predicted,float,20-120,pfts,Conditional,Missing if PFTs not performed (ILD-008)
+fev1_pct_predicted,FEV1 % predicted,float,20-120,pfts,Conditional,
+dlco_pct_predicted,DLCO % predicted,float,10-120,pfts,Conditional,Quality grade matters - see PFT notes
+six_mwd_meters,6-Minute Walk Distance,integer,50-700,pfts,Conditional,May be terminated early (ILD-007)
+hrct_pattern,HRCT pattern classification,string,"UIP, NSIP, DIP, RB-ILD, indeterminate",imaging,Y,Depends on reader expertise - see DQ-008
+honeycombing,Honeycombing present,categorical,"Yes, No",imaging,Y,
+emphysema_coexisting,Coexisting emphysema,categorical,"Yes (type), No",imaging,Y,Relevant for CPFE assessment
+extent_pct,Extent of lung involvement,integer,0-100,imaging,Y,Estimated by radiologist; subjective
+antifibrotic_therapy,On antifibrotic,categorical,"Yes, No",medications,Y,Nintedanib or pirfenidone
+steroid_use,Corticosteroid use,categorical,"Yes, No",medications,Y,
+baseline_fvc_pct,Baseline FVC %,float,20-120,outcomes,Conditional,
+latest_fvc_pct,Latest FVC %,float,20-120,outcomes,Conditional,Missing if lost to follow-up (ILD-010)
+fvc_change,FVC change (absolute %),float,-30 to +20,outcomes,Conditional,
+hospitalizations_6mo,Hospitalizations in study period,integer,0-10,outcomes,Y,
+vital_status,Vital status at end of study,categorical,"Alive, Deceased, Unknown",outcomes,Y,Unknown for lost to follow-up

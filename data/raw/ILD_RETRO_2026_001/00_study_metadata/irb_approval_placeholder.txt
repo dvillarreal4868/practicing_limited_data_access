@@ -1,0 +1,6 @@
+PLACEHOLDER: Actual IRB approval letter would be a PDF document.
+UCLA IRB Protocol #UCLA-IRB-25-001234
+Approved: 07/01/2025
+Expiration: 06/30/2026
+Category: Exempt (45 CFR 46.104(d)(4)) - retrospective chart review with de-identified data
+Consent: Waiver of informed consent granted per 45 CFR 46.116(f)

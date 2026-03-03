@@ -1,0 +1,23 @@
+[SCANNED DOCUMENT - OCR TEXT - QUALITY: POOR]
+
+KAISER PERMANENTE
+Pu1monary Function Test Report
+
+Patient: [REDACTED]     MRN: [REDACTED]     DOB: [REDACTED]
+Date of Test: 03/15/2O24   Ordering: Dr. H. Yamamoto
+Technic1an: M. Gutierrez, RRT
+
+SPIROMETRY:              Actual    %Pred    LLN
+FVC (L)                  2.45      63%      2.89
+FEV1 (L)                 [illegible]
+FEV1/FVC                 [illegible]
+
+LUNG VOLUMES:
+TLC (L)                  [page smudged - not readable]
+
+DIFFUSION:
+DLco (mL/min/mmHg)       10.8     42%      [cut off]
+
+INTERPRETATION: Restr1ctive ventilatory defect. Reduced diffus1on capac1ty.
+
+Signed: H. Yamamoto, MD   03/17/2O24

@@ -1,0 +1,8 @@
+RADIOLOGY REPORT
+Accession: IMG-3006 | Date: 10/20/2025 | Radiologist: Dr. P. Wilson (general rad)
+Exam: CT CHEST WITHOUT CONTRAST, HIGH-RESOLUTION PROTOCOL
+Patient: [REDACTED] (ILD-006)
+
+IMPRESSION: GENERAL RAD READ - no ILD classification. 'Minimal bilateral GGO, likely smoking related.' Extent ~10%.
+
+[Full structured report available in PACS]

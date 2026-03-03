@@ -1,0 +1,37 @@
+PULMONARY MEDICINE CONSULTATION
+Date: 08/20/2025 14:32 | Author: Ravi Krishnamurthy, MD | Encounter: ENC-550188
+
+REASON FOR CONSULTATION: 68 yo M referred by Dr. Kim (PCP) for eval of progressive dyspnea and ILD on CT chest.
+
+HPI:
+Mr. [REDACTED] is a 68 year-old male with PMHx significant for COPD, HTN, HLD who presents for evaluation of progressive exertional dyspnea x ~18 months and persistent dry cough. Pt reports that he first noticed SOB when climbing stairs at his home approximately 1.5 yrs ago. Initially attributed to 'getting older' and deconditioning. Sx have progressively worsened - now SOB with walking 1-2 blocks on flat ground. Dry non-productive cough, worse in AM. Denies hemoptysis, chest pain, orthopnea, PND. No fevers, chills, night sweats, or weight loss.
+
+Pt was seen by PCP 07/2025 who ordered CT chest which showed bilateral basilar reticular opacities with honeycombing - report noted concern for UIP pattern.
+
+SMOKING HISTORY:
+Former smoker. Started age 16. Smoked approximately 1.5 packs per day for 40 years. Quit in March 2018 (approximately 7 years ago). Calcualted pack-years: 60. Also reports occasional pipe smoking 'in my 30s and 40s, maybe a few times a week for a while, I don't remember exactly.' Denies any current tobacco, e-cigarette, or marijuana use.
+
+OCCUPATIONAL/ENVIRONMENTAL:
+Retired accountant. No known exposures. Office settings 40+ years. Home built 1985, Pasadena. No birds, no hot tub.
+
+ROS: *** AUTO-POPULATED FROM LAST VISIT - REVIEWED AND UPDATED ***
+Constitutional: Fatigue, no wt loss, no fevers
+Resp: as per HPI. CV: No CP, no edema. GI: GERD on omeprazole.
+MSK: No joint pain, no weakness, no skin changes.
+All other systems reviewed and negative.
+
+PHYSICAL EXAMINATION:
+VS: BP 138/84  HR 78  RR 18  T 98.6  SpO2 94% RA  Wt 198 lbs  Ht 5'10"  BMI 28.4
+Gen: Well-appearing, NAD
+Lungs: Bilateral basilar fine inspiratory crackles ('velcro' quality). No wheezes/rhonchi.
+Ext: No clubbing, no cyanosis, no edema
+
+A/P:
+68M, 60 pack-year smoker, progressive dyspnea + dry cough x18 months. CT: UIP pattern.
+1. Suspected IPF - PFTs with DLCO, MDD, serologies (ANA/RF/CCP/myositis/HP panel)
+2. Smoking cessation - already quit 2018, counseled
+3. Supplemental O2 - SpO2 94% rest, assess with ambulation
+4. Pulm rehab referral
+5. RTC 4 weeks
+
+Electronically signed: R. Krishnamurthy, MD  08/20/2025 16:45

@@ -1,0 +1,8 @@
+RADIOLOGY REPORT
+Accession: IMG-3009 | Date: 11/28/2025 | Radiologist: Dr. A. Mehta
+Exam: CT CHEST WITHOUT CONTRAST, HIGH-RESOLUTION PROTOCOL
+Patient: [REDACTED] (ILD-009)
+
+IMPRESSION: NOTE: Reconstructed from trauma CT, not true HRCT protocol. GGO, DIP favored. Extent ~25%.
+
+[Full structured report available in PACS]

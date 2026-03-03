@@ -1,0 +1,11 @@
+patient_id,age,sex,race_ethnicity,bmi,insurance_type,pcp_name,primary_language,enrollment_date
+ILD-001,68,M,White,28.4,Medicare,Dr. Sarah Kim,English,2025-08-15
+ILD-002,72,Male,Caucasian,26.1,Medicare,Dr. James Chen,English,2025-08-22
+ILD-003,55,F,Hispanic,31.7,Medi-Cal,Dr. Michael Torres,Spanish,2025-09-03
+ILD-004,63,M,African American,24.9,Anthem HMO,Dr. Lisa Park,English,2025-09-10
+ILD-005,70,F,white,22.3,Medicare,Dr. Sarah Kim,English,2025-09-18
+ILD-006,48,M,Asian (Vietnamese),23.8,Blue Cross PPO,Dr. James Chen,Vietnamese,2025-10-05
+ILD-007,75,M,White/Non-Hispanic,27.0,Medicare Advantage,Dr. Lisa Park,English,2025-10-20
+ILD-008,61,F,Black,29.5,Anthem HMO,Dr. Michael Torres,English,2025-11-02
+ILD-009,58,M,Latino,25.2,Medi-Cal,Dr. Sarah Kim,Spanish,2025-11-15
+ILD-010,66,F,White,24.0,Blue Shield HMO,Dr. James Chen,English,2025-12-01

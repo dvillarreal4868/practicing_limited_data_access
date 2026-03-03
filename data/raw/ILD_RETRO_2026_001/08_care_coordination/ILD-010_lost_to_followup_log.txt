@@ -1,0 +1,24 @@
+CARE COORDINATION LOG - ILD-010 (Lost to Follow-Up)
+
+01/13/2026 - Scheduling Staff (auto):
+  No-show for Pulm appt 01/12/2026. Auto letter sent.
+
+01/15/2026 - Maria Chen, RN:
+  Phone (310-555-0955) disconnected. No alt #. MyChart message sent - no response.
+  Also missed Rheum appt 01/14.
+
+01/20/2026 - Maria Chen, RN:
+  2nd attempt. Phone still disconnected. Certified letter sent.
+  Pharmacy (Walgreens San Vicente): Prednisone + Mycophenolate refills NOT picked up.
+
+01/22/2026 - R. Krishnamurthy, MD:
+  Concerned. RA-ILD on immunosuppression, abrupt cessation risky. SW to attempt contact.
+  If unreachable by 02/01, mark lost to f/u and notify Rheum.
+
+01/28/2026 - Sandra Torres, LCSW:
+  Home visit attempted. Apt occupied, no answer. Left card. Building mgr confirms pt lives there
+  but 'hasn't seen her lately.' Privacy prevents further info.
+
+02/03/2026 - R. Krishnamurthy, MD:
+  OFFICIALLY LOST TO FOLLOW-UP. Last contact: 01/08/2026.
+  All outreach exhausted. Study DB updated. Rheum notified. Chart flagged.

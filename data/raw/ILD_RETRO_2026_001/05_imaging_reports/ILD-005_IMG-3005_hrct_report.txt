@@ -1,0 +1,8 @@
+RADIOLOGY REPORT
+Accession: IMG-3005 | Date: 10/08/2025 | Radiologist: Dr. A. Mehta
+Exam: CT CHEST WITHOUT CONTRAST, HIGH-RESOLUTION PROTOCOL
+Patient: [REDACTED] (ILD-005)
+
+IMPRESSION: Bilateral GGO + reticulation, subpleural sparing. NSIP pattern. Mild reactive lymphadenopathy. Extent ~35%.
+
+[Full structured report available in PACS]

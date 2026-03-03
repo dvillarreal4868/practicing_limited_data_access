@@ -1,0 +1,34 @@
+{
+  "study_id": "ILD-RETRO-2026-001",
+  "title": "Retrospective Chart Review: Smoking and Interstitial Lung Disease",
+  "pi": "[Your Name], MD/PhD",
+  "institution": "UCLA Health - David Geffen School of Medicine",
+  "irb_protocol": "UCLA-IRB-25-001234",
+  "irb_approval_date": "2025-07-01",
+  "study_period": {
+    "start": "2025-08-01",
+    "end": "2026-01-31"
+  },
+  "design": "Single-center retrospective cohort chart review",
+  "sample_size": 10,
+  "data_sources": [
+    "Epic CareConnect EHR",
+    "UCLA PACS",
+    "UCLA Clinical Lab",
+    "Outside records"
+  ],
+  "inclusion_criteria": [
+    "Age >= 18",
+    "Encounter at UCLA Health 08/01/2025 - 01/31/2026",
+    "ICD-10 J84.x or clinical suspicion per pulmonology note",
+    "Documented tobacco smoking history"
+  ],
+  "exclusion_criteria": [
+    "ILD solely from CTD with no smoking history",
+    "Occupational/environmental ILD with no smoking history",
+    "Incomplete records (no PFTs or imaging)"
+  ],
+  "hipaa": "De-identified per Safe Harbor method",
+  "export_date": "2026-02-01T08:00:00Z",
+  "export_tool": "Epic Clarity/Caboodle SQL extract + manual chart abstraction"
+}

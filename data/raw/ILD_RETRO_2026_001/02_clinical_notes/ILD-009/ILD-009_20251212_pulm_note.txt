@@ -1,0 +1,9 @@
+PULMONARY MEDICINE NOTE
+Date: 2025-12-12 | Author: R. Krishnamurthy, MD
+
+Brief: 58M, current smoker, ILD found incidentally on trauma CT. F/u for DIP eval.
+[Full note content would be here - abbreviated for this synthetic dataset]
+
+See structured data exports for complete clinical details.
+
+E-signed: R. Krishnamurthy, MD

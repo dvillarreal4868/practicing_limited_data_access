@@ -1,0 +1,17 @@
+patient_id,rx_id,medication_name,dose,route,frequency,start_date,end_date,prescribing_provider,status
+ILD-001,RX-70001,Nintedanib,150mg,Oral,BID,2025-09-15,,Dr. R. Krishnamurthy,Active
+ILD-001,RX-70002,Omeprazole,20mg,Oral,QD,2025-01-10,,Dr. S. Kim,Active
+ILD-001,RX-70003,Lisinopril,20mg,Oral,QD,2022-03-15,,Dr. S. Kim,Active
+ILD-002,RX-70010,Pirfenidone,801mg (reduced to 534mg),Oral,TID,2025-09-20,,Dr. R. Krishnamurthy,Active - dose reduced
+ILD-002,RX-70011,Apixaban,5mg,Oral,BID,2024-06-01,,Dr. J. Chen,Active
+ILD-003,RX-70020,Prednisone,40mg taper,Oral,QD,2025-10-15,2026-01-15,Dr. R. Krishnamurthy,Tapering
+ILD-003,RX-70021,Sertraline,100mg,Oral,QD,2023-05-01,,Dr. M. Torres,Active
+ILD-005,RX-70030,Prednisone,20mg,Oral,QD,2025-10-15,,Dr. R. Krishnamurthy,Active
+ILD-005,RX-70031,Mycophenolate,1000mg,Oral,BID,2025-11-05,,Dr. R. Krishnamurthy,Active
+ILD-007,RX-70040,Nintedanib,150mg,Oral,BID,2025-11-10,,Dr. R. Krishnamurthy,Active
+ILD-007,RX-70041,Metoprolol succinate,50mg,Oral,QD,2023-01-15,,Dr. L. Park,Active
+ILD-007,RX-70042,Prednisone,60mg taper,Oral,QD,2025-11-22,2025-12-22,Dr. L. Huang,Completed
+ILD-008,RX-70050,Prednisone,30mg,Oral,QD,2025-11-05,,Dr. R. Krishnamurthy,Active (adherence questionable - Rx unfilled 6+ wks per pharmacy)
+ILD-009,RX-70060,Prednisone,30mg taper,Oral,QD,2025-12-15,,Dr. R. Krishnamurthy,Active
+ILD-010,RX-70070,Prednisone,15mg,Oral,QD,2025-12-10,,Dr. R. Krishnamurthy,Active (but pt lost to f/u - refill not picked up)
+ILD-010,RX-70071,Mycophenolate,1000mg,Oral,BID,2025-12-10,,Dr. R. Krishnamurthy,Active (but pt lost to f/u - refill not picked up)
