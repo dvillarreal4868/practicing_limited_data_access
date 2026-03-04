@@ -1,9 +1,0 @@
-PULMONARY MEDICINE NOTE
-Date: 2025-10-01 | Author: R. Krishnamurthy, MD
-
-Brief: ILD screening for RA. 70F, former smoker, DOE + Raynaud.
-[Full note content would be here - abbreviated for this synthetic dataset]
-
-See structured data exports for complete clinical details.
-
-E-signed: R. Krishnamurthy, MD

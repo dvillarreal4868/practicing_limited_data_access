@@ -1,8 +1,0 @@
-RADIOLOGY REPORT
-Accession: IMG-3008 | Date: 11/12/2025 | Radiologist: Dr. R. Tanaka
-Exam: CT CHEST WITHOUT CONTRAST, HIGH-RESOLUTION PROTOCOL
-Patient: [REDACTED] (ILD-008)
-
-IMPRESSION: Bilateral GGO + reticulation. Possible NSIP vs COP vs sarcoid. No prior for comparison. Extent ~25%.
-
-[Full structured report available in PACS]

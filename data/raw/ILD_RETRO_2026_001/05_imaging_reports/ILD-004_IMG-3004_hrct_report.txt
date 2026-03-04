@@ -1,8 +1,0 @@
-RADIOLOGY REPORT
-Accession: IMG-3004 | Date: 09/28/2025 | Radiologist: Dr. R. Tanaka
-Exam: CT CHEST WITHOUT CONTRAST, HIGH-RESOLUTION PROTOCOL
-Patient: [REDACTED] (ILD-004)
-
-IMPRESSION: Centrilobular nodules, patchy GGO. RB-ILD. Extent ~15%.
-
-[Full structured report available in PACS]

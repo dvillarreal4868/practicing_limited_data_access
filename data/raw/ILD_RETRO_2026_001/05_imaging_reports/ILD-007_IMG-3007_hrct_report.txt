@@ -1,8 +1,0 @@
-RADIOLOGY REPORT
-Accession: IMG-3007 | Date: 10/30/2025 | Radiologist: Dr. A. Mehta
-Exam: CT CHEST WITHOUT CONTRAST, HIGH-RESOLUTION PROTOCOL
-Patient: [REDACTED] (ILD-007)
-
-IMPRESSION: End-stage UIP, diffuse honeycombing. Severe emphysema - CPFE. PA 3.4cm (pulm HTN). Extent ~70%.
-
-[Full structured report available in PACS]

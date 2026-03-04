@@ -1,8 +1,0 @@
-RADIOLOGY REPORT
-Accession: IMG-3010 | Date: 12/10/2025 | Radiologist: Dr. R. Tanaka
-Exam: CT CHEST WITHOUT CONTRAST, HIGH-RESOLUTION PROTOCOL
-Patient: [REDACTED] (ILD-010)
-
-IMPRESSION: Bilateral GGO + reticulation, subpleural sparing. NSIP. RA-ILD consideration. Extent ~30%.
-
-[Full structured report available in PACS]
